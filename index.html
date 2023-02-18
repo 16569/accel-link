@@ -6,17 +6,20 @@
     <link rel="stylesheet" href="index.css">
     <title>アクセルSV型共有</title>
     <script>
-        var universalLink = "https://www.accel-app.com/";
+        var universalLink = "https://www.accel-app.com/"+location.search;
         function onLoad() {
 
         }
+        var a = document.getElementById("spare");
+        a.setAttribute('href', universalLink);
     </script>
 </head>
 <body onload="onLoad()">
     <div class="container">
         <div class="layer1">
             <div>
-                <h4>アプリを開くとポケモンが自動保存されます！</h4>
+                <h4>アプリを開くとポケモンが自動保存されます！<a id="spare" href="https://www.accel-app.com/">アプリを開く</a></h4>
+                
             </div>
             <div class="storelink">
                 <div>
