@@ -8,10 +8,9 @@
     <script>
         var scheme = "accel://poke/"+location.search;
         function onLoad() {
-
+            var a = document.getElementById("spare");
+            a.setAttribute('href', scheme);
         }
-        var a = document.getElementById("spare");
-        a.setAttribute('href', scheme);
     </script>
 </head>
 <body onload="onLoad()">
