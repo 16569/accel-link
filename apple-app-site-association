@@ -6,7 +6,7 @@
                 "appID": "7666XCWDRZ.jp.gr.java-conf.fujiura.accel",
                 "paths": [ 
                     "/",
-                    "NOT /*"
+                    "NOT /tool/ev-reverse/*"
                  ]
             }
         ]
