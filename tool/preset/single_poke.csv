@@ -1,2 +1,54 @@
-Salamence,マンダの流星群は強い,31,31,31,31,31,31,4,252,0,252,0,0,Intimidate,Rash,Dragon Fang,dracometeor,airslash,earthquake,ironhead,Flying
-Magnezone,チョッキHD,31,31,31,31,31,31,252,0,0,4,252,0,Magnet Pull,Modest,Assault Vest,discharge,voltswitch,flashcannon,mirrorcoat,Water
+Flutter Mane,ブエナB振り,31,0,31,31,31,31,4,0,244,4,4,252,Protosynthesis,Timid,Booster Energy,moonblast,shadowball,painsplit,calmmind,Fairy
+Flutter Mane,臆病眼鏡,31,0,31,31,31,31,4,0,0,252,0,252,Protosynthesis,Timid,Choice Specs,moonblast,drainingkiss,shadowball,mysticalfire,Fairy
+Dragonite,HA鉢巻,31,31,31,31,31,31,196,252,4,0,4,52,Multiscale,Adamant,Choice Band,extremespeed,earthquake,outrage,lowkick,Normal
+Dragonite,HASダイス,31,31,31,31,31,31,180,204,4,0,4,116,Multiscale,Adamant,Loaded Dice,scaleshot,extremespeed,earthquake,dragondance,Normal
+Chien-Pao,,31,31,31,31,31,31,0,252,4,0,0,252,Sword of Ruin,Jolly,Focus Sash,iciclecrash,sacredsword,terablast,suckerpunch,Electric
+Chien-Pao,,31,31,31,31,31,31,0,252,4,0,0,252,Sword of Ruin,Adamant,Focus Sash,iciclecrash,crunch,sacredsword,suckerpunch,Stellar
+Ting-Lu,効率振り,31,31,31,31,31,31,252,0,4,0,252,0,Vessel of Ruin,Impish,Sitrus Berry,earthquake,ruination,stealthrock,whirlwind,Poison
+Ting-Lu,チョッキAT,31,31,31,31,31,31,52,252,0,0,204,0,Vessel of Ruin,Adamant,Assault Vest,earthquake,heavyslam,payback,ruination,Steel
+Urshifu-Rapid-Strike,AD,31,31,31,31,31,31,0,252,0,0,252,4,Unseen Fist,Adamant,Punching Glove,surgingstrikes,closecombat,uturn,aquajet,Water
+Ogerpon-Hearthflame,,31,31,31,31,31,31,220,252,4,0,4,28,Mold Breaker,Adamant,Hearth Flame Mask,ivycudgel,hornleech,quickattack,swordsdance,Fire
+Ogerpon-Wellspring,,31,31,31,31,31,31,244,4,4,0,4,252,Water Absorb,Jolly,Wellspring Mask,ivycudgel,hornleech,encore,leechseed,Water
+Ursaluna-Bloodmoon,,31,0,31,31,31,31,84,0,4,196,212,12,Mind's Eye,Modest,Assault Vest,bloodmoon,hypervoice,earthpower,vacuumwave,Normal
+Calyrex-Shadow,,31,0,31,31,31,31,0,0,4,252,0,252,As One (Spectrier),Timid,Focus Sash,astralbarrage,terablast,drainingkiss,nastyplot,Fairy
+Miraidon,,31,0,31,31,31,31,124,0,4,252,4,124,Hadron Engine,Modest,Assault Vest,electrodrift,dracometeor,terablast,voltswitch,Ice
+Dondozo,,31,31,31,31,31,31,244,0,196,0,68,0,Unaware,Impish,Leftovers,wavecrash,yawn,rest,fissure,
+Landorus-Therian,,31,31,31,31,31,31,252,12,244,0,0,0,Intimidate,Adamant,Assault Vest,earthquake,rocktomb,uturn,fissure,
+Scizor,,31,31,31,31,31,31,252,236,4,0,12,4,Technician,Adamant,Sitrus Berry,bulletpunch,knockoff,uturn,swordsdance,Normal
+Koraidon,,31,31,31,31,31,31,52,196,4,0,4,252,Orichalcum Pulse,Adamant,Loaded Dice,flareblitz,scaleshot,collisioncourse,flamecharge,Fire
+Archaludon,,31,0,31,31,31,31,252,0,4,0,252,0,Stamina,Bold,Sitrus Berry,flashcannon,bodypress,roar,stealthrock,Fairy
+Chi-Yu,,31,0,31,31,31,31,4,0,0,252,0,252,Beads of Ruin,Modest,Choice Scarf,flamethrower,darkpulse,overheat,psychic,Fire
+Zacian-Crowned,,31,31,31,31,31,31,0,252,0,0,4,252,Intrepid Sword,Jolly,Rusted Sword,behemothblade,playrough,trailblaze,swordsdance,Water
+Iron Treads,,31,31,31,31,31,31,0,252,0,0,4,252,Quark Drive,Jolly,Choice Band,earthquake,ironhead,knockoff,icespinner,Ground
+Mimikyu,,31,31,31,31,31,31,4,252,0,0,0,252,Disguise,Adamant,Life Orb,playrough,shadowsneak,curse,swordsdance,Stellar
+Glimmora,,31,0,31,31,31,31,4,0,0,252,0,252,Toxic Debris,Timid,Focus Sash,powergem,earthpower,mortalspin,stealthrock,Grass
+Alomomola,,31,31,31,31,31,0,12,0,252,0,244,0,Regenerator,Relaxed,Rocky Helmet,flipturn,aquajet,wish,protect,Fairy
+Rillaboom,,31,31,31,31,31,31,188,244,4,0,68,4,Grassy Surge,Adamant,Assault Vest,grassyglide,knockoff,uturn,drumbeating,Fire
+Grimmsnarl,,31,31,31,31,31,31,252,0,204,0,52,0,Prankster,Careful,Light Clay,spiritbreak,reflect,lightscreen,thunderwave,Fire
+Gliscor,,31,31,31,31,31,31,228,0,0,0,28,252,Poison Heal,Jolly,Toxic Orb,earthquake,substitute,protect,toxic,Steel
+Garganacl,,31,31,31,31,31,31,252,0,156,0,100,0,Purifying Salt,Impish,Leftovers,saltcure,recover,protect,substitute,Water
+Sneasler,,31,31,31,31,31,31,0,252,4,0,0,252,Unburden,Adamant,Normal Gem,closecombat,direclaw,acrobatics,fakeout,Flying
+Kyogre,,31,0,31,31,31,31,0,0,4,252,0,252,Drizzle,Timid,Choice Scarf,waterspout,surf,thunder,icebeam,Water
+Clodsire,,31,31,31,31,31,31,252,0,4,0,252,0,Water Absorb,Careful,Leftovers,earthquake,recover,toxic,toxicspikes,Dark
+Iron Hands,,31,31,31,31,31,31,244,0,4,0,252,0,Quark Drive,Impish,Leftovers,drainpunch,icepunch,supercellslam,swordsdance,Fire
+Ditto,,31,31,31,31,31,0,252,0,0,0,0,0,Imposter,Sassy,Choice Scarf,transform,,,,Normal
+Skeledirge,,31,0,31,31,31,31,252,0,252,0,4,0,Unaware,Bold,Leftovers,torchsong,hex,willowisp,slackoff,Fairy
+Ho-Oh,,31,31,31,31,31,31,252,236,4,0,4,12,Regenerator,Adamant,Heavy-Duty Boots,sacredfire,bravebird,earthquake,recover,Fairy
+Primarina,,31,31,31,31,31,31,252,0,0,252,0,4,Torrent,Modest,Assault Vest,moonblast,sparklingaria,flipturn,aquajet,Normal
+Lunala,,31,0,31,31,31,31,0,0,4,252,0,252,Shadow Shield,Modest,Choice Scarf,moongeistbeam,moonblast,moonlight,trick,Fairy
+Eternatus,,31,0,31,31,31,31,236,0,52,4,52,164,Pressure,Timid,Leftovers,dynamaxcannon,flamethrower,cosmicpower,recover,Fairy
+Muk-Alola,,31,31,31,31,31,31,252,4,0,0,252,0,Poison Touch,Careful,Leftovers,knockoff,poisonjab,shadowsneak,protect,Poison
+Corviknight,,31,31,31,31,31,31,252,0,252,0,0,0,Pressure,Impish,Rocky Helmet,bodypress,roost,uturn,taunt,Fire
+Iron Bundle,,31,31,31,31,31,31,4,0,0,252,0,252,Quark Drive,Timid,Booster Energy,hydropump,freezedry,flipturn,encore,Water
+Urshifu,,31,31,31,31,31,31,0,252,0,0,252,4,Unseen Fist,Adamant,Focus Sash,wickedblow,closecombat,suckerpunch,swordsdance,Dark
+Meowscarada,,31,31,31,31,31,31,0,252,0,0,4,252,Protean,Adamant,Focus Sash,flowertrick,knockoff,tripleaxel,suckerpunch,Grass
+Gholdengo,,31,31,31,31,31,31,252,0,0,252,4,0,Good as Gold,Modest,Choice Specs,makeitrain,shadowball,thunderbolt,trick,Flying
+Hippowdon,,31,31,31,31,31,31,252,0,140,0,116,0,Sand Stream,Impish,Sitrus Berry,earthquake,stealthrock,yawn,slackoff,Fire
+Terapagos-Terastal,,31,31,31,31,31,31,116,0,0,252,0,140,Tera Shell,Modest,Leftovers,terastarstorm,earthpower,calmmind,rockpolish,Stellar
+Calyrex-Ice,,31,31,31,31,31,0,252,252,0,0,4,0,As One (Glastrier),Brave,Leftovers,glaciallance,highhorsepower,terablast,trickroom,Electric
+Iron Valiant,,31,31,31,31,31,31,0,252,0,4,0,252,Quark Drive,Naive,Booster Energy,closecombat,moonblast,destinybond,encore,Ghost
+Ursaluna,,31,31,31,31,31,31,0,252,0,0,4,252,Guts,Adamant,Flame Orb,facade,earthquake,trailblaze,swordsdance,Normal
+Heatran,,31,0,31,31,31,31,252,0,252,4,0,0,Flash Fire,Bold,Leftovers,magmastorm,flashcannon,earthpower,taunt,Fairy
+Toxapex,,31,31,31,31,31,31,252,0,252,0,4,0,Regenerator,Bold,Rocky Helmet,recover,toxic,toxicspikes,haze,Fairy
+Ceruledge,,31,31,31,31,31,31,212,212,4,0,4,76,Flash Fire,Adamant,Leftovers,bitterblade,poltergeist,shadowsneak,swordsdance,Fairy
+Lugia,,31,0,31,31,31,31,252,0,92,4,4,156,Multiscale,Bold,Leftovers,aeroblast,psychicnoise,calmmind,recover,Poison
