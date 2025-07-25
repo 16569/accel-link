@@ -5,8 +5,7 @@
       {
         "appID": "7666XCWDRZ.jp.gr.java-conf.fujiura.accel",
         "paths": [
-          "NOT /tool/*",
-          "*"
+          "/*"
         ]
       }
     ]
