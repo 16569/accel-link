@@ -11,6 +11,11 @@
                         "/": "/tool/*", 
                         "exclude": true,
                         "comment": "Matches any URL beginning with /path/1/ and instructs the system not to open it as a universal link" 
+                    },
+                    { 
+                        "/": "/*", 
+                        "exclude": false,
+                        "comment": "Matches any URL beginning with /path/1/ and instructs the system not to open it as a universal link" 
                     }
                     
                 ]
