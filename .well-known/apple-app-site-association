@@ -1,22 +1,14 @@
 {
-    "applinks": {
-        "details": [
-            {
-
-
-                "appIDs": [ "7666XCWDRZ.jp.gr.java-conf.fujiura.accel" ], 
-                "components": [ 
-                    { 
-                        "/": "/tool/*", 
-                        "exclude": true,
-                        "comment": "Matches any URL beginning with /path/1/ and instructs the system not to open it as a universal link" 
-                    },
-                    { 
-                        "/": "*"
-                    }
-                    
-                ]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7666XCWDRZ.jp.gr.java-conf.fujiura.accel",
+        "paths": [
+          "NOT /tool/*",
+          "*"
         ]
-    }
+      }
+    ]
+  }
 }
